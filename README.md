@@ -1,7 +1,4 @@
 # Hi there, I'm Eileen 👋
-
-
-
 **Backend Developer • Python & Django Specialist • Clean Code Advocate**  
 she/her
 
