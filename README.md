@@ -1,5 +1,5 @@
 <!-- Header / Intro -->
-<h1 align="center">✨ Eileen Rezaei</h1>
+<h1 align="center">Ali Gholizadeh</h1>
 <p align="center">
   <strong>Backend Developer • Python &amp; Django Specialist • Clean Code Advocate</strong><br>
   <em>she/her</em>
