@@ -1,4 +1,4 @@
-# Hi there, I'm Eileen 👋
+# Hi there, I'm Ali 👋
 **Backend Developer • Python & Django Specialist • Clean Code Advocate**  
 she/her
 
