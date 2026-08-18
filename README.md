@@ -3,14 +3,14 @@
 
 I'm passionate about backend development and building clean, efficient systems with Python and Django. I'm currently taking a hands-on **Python & Django Web Development** course, working hard every day to strengthen my technical skills and gain real-world experience. I love learning new technologies, solving problems, and working as part of a team — and I'm actively looking for an **internship opportunity** to grow and learn alongside experienced developers.
 
-### 🎯 Currently
+## 🎯 Currently
 - 📖 Taking a hands-on **Python & Django Web Development** course
 - 🧠 Practicing **OOP, Design Patterns, and Unit Testing** through real projects
 - 🗄️ Working with **MySQL** and **MongoDB**, and exploring **Redis** & **RabbitMQ**
 - 🐧 Comfortable working in **Linux (Ubuntu)** and **macOS** environments
 - 🚀 Actively looking for my first **internship** to apply everything I'm learning
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -50,7 +50,7 @@ I'm passionate about backend development and building clean, efficient systems w
 ## 💬 Open to Opportunities
 I'm actively searching for an **internship position** where I can apply what I've learned, keep growing, and contribute to real projects alongside a professional team. If you have an opportunity, or just want to talk about backend development, feel free to reach out!
 
-### 📫 Let's Connect
+## 📫 Let's Connect
 <div align="left">
 <a href="mailto:aligholizadeh8413@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
