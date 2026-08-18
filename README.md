@@ -47,7 +47,7 @@ I'm passionate about backend development and building clean, efficient systems w
 - **Kharazmi University**: B.Sc. in Computer Science (2023 - 2027), Graduated with Distinction
 - **National Organization for Development of Exceptional Talents (Sampad)**: Diploma in Mathematics (2019 - 2023)
 
-### 💬 Open to Opportunities
+## 💬 Open to Opportunities
 I'm actively searching for an **internship position** where I can apply what I've learned, keep growing, and contribute to real projects alongside a professional team. If you have an opportunity, or just want to talk about backend development, feel free to reach out!
 
 ### 📫 Let's Connect
