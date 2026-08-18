@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ali 👋
 **Aspiring Backend Developer • Python & Django Learner • Actively Seeking an Internship**
 
 I'm passionate about backend development and building clean, efficient systems with Python and Django. I'm currently taking a hands-on **Python & Django Web Development** course, working hard every day to strengthen my technical skills and gain real-world experience. I love learning new technologies, solving problems, and working as part of a team — and I'm actively looking for an **internship opportunity** to grow and learn alongside experienced developers.
@@ -38,12 +38,10 @@ I'm passionate about backend development and building clean, efficient systems w
 ![Linux](https://img.shields.io/badge/Linux%20(Ubuntu)-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 
-**Design Tools**  
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-**Other**  
-![Network+](https://img.shields.io/badge/Network%2B-005571?style=for-the-badge)
+**Other skills**  
+![Photoshop (Advanced)](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator (Advanced)](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Network+ , DHCP , DNS , Active Directory , ...](https://img.shields.io/badge/Network%2B-005571?style=for-the-badge)
 
 ### 💬 Open to Opportunities
 I'm actively searching for an **internship position** where I can apply what I've learned, keep growing, and contribute to real projects alongside a professional team. If you have an opportunity, or just want to talk about backend development, feel free to reach out!
