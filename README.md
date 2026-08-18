@@ -39,9 +39,9 @@ I'm passionate about backend development and building clean, efficient systems w
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 
 **Other skills**  
-![Photoshop (Advanced)](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator (Advanced)](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Network+ , DHCP , DNS , Active Directory , ...](https://img.shields.io/badge/Network%2B-005571?style=for-the-badge)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Network+](https://img.shields.io/badge/Network%2B-005571?style=for-the-badge)
 
 ### 💬 Open to Opportunities
 I'm actively searching for an **internship position** where I can apply what I've learned, keep growing, and contribute to real projects alongside a professional team. If you have an opportunity, or just want to talk about backend development, feel free to reach out!
