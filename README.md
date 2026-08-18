@@ -1,16 +1,16 @@
-# Hi there, I'm Ali 👋
+### Hi there, I'm Ali 👋
 **Aspiring Backend Developer • Python & Django Learner • Actively Seeking an Internship**
 
 I'm passionate about backend development and building clean, efficient systems with Python and Django. I'm currently taking a hands-on **Python & Django Web Development** course, working hard every day to strengthen my technical skills and gain real-world experience. I love learning new technologies, solving problems, and working as part of a team — and I'm actively looking for an **internship opportunity** to grow and learn alongside experienced developers.
 
-## 🎯 Currently
+### 🎯 Currently
 - 📖 Taking a hands-on **Python & Django Web Development** course
 - 🧠 Practicing **OOP, Design Patterns, and Unit Testing** through real projects
 - 🗄️ Working with **MySQL** and **MongoDB**, and exploring **Redis** & **RabbitMQ**
 - 🐧 Comfortable working in **Linux (Ubuntu)** and **macOS** environments
 - 🚀 Actively looking for my first **internship** to apply everything I'm learning
 
-## 🧰 Tech Stack
+### 🧰 Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -43,11 +43,11 @@ I'm passionate about backend development and building clean, efficient systems w
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Network+](https://img.shields.io/badge/Network%2B-005571?style=for-the-badge)
 
-## 📖 Education
+### 📖 Education
 - **Kharazmi University**: B.Sc. in Computer Science (2023 - 2027), Graduated with Distinction
 - **National Organization for Development of Exceptional Talents (Sampad)**: Diploma in Mathematics (2019 - 2023)
 
-## 💬 Open to Opportunities
+### 💬 Open to Opportunities
 I'm actively searching for an **internship position** where I can apply what I've learned, keep growing, and contribute to real projects alongside a professional team. If you have an opportunity, or just want to talk about backend development, feel free to reach out!
 
 ## 📫 Let's Connect
