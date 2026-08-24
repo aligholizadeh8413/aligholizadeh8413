@@ -23,13 +23,11 @@ I'm passionate about backend development and building clean, efficient systems w
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4B8BBE?style=for-the-badge)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-4B8BBE?style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django%20(learning)-092E20?style=for-the-badge&logo=django&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Messaging & Caching**  
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Tools & OS**  
