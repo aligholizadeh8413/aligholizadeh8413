@@ -36,9 +36,9 @@ I'm passionate about backend development and building clean, efficient systems w
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
 
 **Other skills**  
+![Network+](https://img.shields.io/badge/Network%2B-005571?style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Network+](https://img.shields.io/badge/Network%2B-005571?style=for-the-badge)
 
 ### 📖 Education
 - **Kharazmi University**: B.Sc. in Computer Science (2023 - 2027), Graduated with Distinction
