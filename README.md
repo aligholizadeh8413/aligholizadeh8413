@@ -1,15 +1,14 @@
 # Hi there, I'm Ali 👋
 **Aspiring Backend Developer • Python & Django Learner • Actively Seeking an Internship**
 
-I'm passionate about backend development and building clean, efficient systems with Python and Django. I'm currently taking a hands-on **Python & Django Web Development** course, working hard every day to strengthen my technical skills and gain real-world experience. I love learning new technologies, solving problems, and working as part of a team — and I'm actively looking for an **internship opportunity** to grow and learn alongside experienced developers.
+I'm passionate about backend development and building clean, efficient systems with Python and Django. I'm currently taking a hands-on **Python & Django Web Development** course, working hard every day to strengthen my technical skills and gain real-world experience. I love learning new technologies, solving problems, and working as part of a team.
 
 ### 🎯 Currently
 - 📖 Taking a hands-on **Python & Django Web Development** course
 - 🧠 Practicing **OOP, Design Patterns, and Unit Testing** through real projects
 - 🗄️ Working with **MySQL** and **MongoDB**, and exploring **Redis** & **RabbitMQ**
 - 🐧 Comfortable working in **Linux (Ubuntu)** and **macOS** environments
-- 🚀 Actively looking for my first **internship** to apply everything I'm learning
-
+  
 ### 🧰 Tech Stack
 
 **Languages**  
