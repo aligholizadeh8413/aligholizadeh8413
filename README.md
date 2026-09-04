@@ -42,7 +42,7 @@ I'm passionate about backend development and building clean, efficient systems w
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
 ### 📖 Education
-- **Kharazmi University**: B.Sc. in Computer Science (2023 - 2027), Graduated with Distinction
+- **Kharazmi University**: B.Sc. in Computer Science (2023 - 2027)
 - **National Organization for Development of Exceptional Talents (Sampad)**: Diploma in Mathematics (2019 - 2023)
 
 ### 💬 Open to Opportunities
