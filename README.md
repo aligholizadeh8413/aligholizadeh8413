@@ -21,7 +21,7 @@ I'm passionate about backend development and building clean, efficient systems w
 ![OOP](https://img.shields.io/badge/OOP-4B8BBE?style=for-the-badge)
 ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-4B8BBE?style=for-the-badge)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-4B8BBE?style=for-the-badge)
-![Django](https://img.shields.io/badge/Django%20(learning)-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Django%20-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
