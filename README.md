@@ -2,7 +2,7 @@
 
 **Backend-Focused Developer • Web Applications & SaaS**
 
-I'm building web applications and exploring SaaS ideas that solve real-world problems. One of my main projects is **[AioDesk](https://aiodesk.ir)**, an RMM and IT management platform focused on device monitoring, alerts, and IT support workflows. I'm also exploring **Torob Trip**, a concept for discovering and comparing travel options across providers.
+I'm building web applications and exploring SaaS ideas that solve real-world problems. One of my main projects is **[AioDesk](https://aiodesk.ir)**, an RMM and IT management platform focused on device monitoring, alerts, and IT support workflows. I'm also exploring **[Torob Trip](https://aiodesk.ir)**, a concept for discovering and comparing travel options across providers.
 
 ### 🎯 Currently
 - 🚀 Building practical web applications and SaaS projects.
@@ -31,7 +31,7 @@ I'm building web applications and exploring SaaS ideas that solve real-world pro
 
 ### ✈️ Torob Trip — Travel Comparison Platform
 
-`Django (planned)` `PostgreSQL (planned)` `REST API (planned)`
+`Django` `PostgreSQL` `REST API`
 
 **Concept / planned project** — A travel discovery and comparison platform that aims to bring offers from different providers into one searchable experience.
 
@@ -50,7 +50,7 @@ I'm building web applications and exploring SaaS ideas that solve real-world pro
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **Backend & Concepts**  
-![RESTful API](https://img.shields.io/badge/RESTful%20API-31547B?style=for-the-badge) ![ORM](https://img.shields.io/badge/ORM-31547B?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-31547B?style=for-the-badge) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-31547B?style=for-the-badge) ![System Design](https://img.shields.io/badge/System%20Design-31547B?style=for-the-badge) ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-516B85?style=for-the-badge) ![Integration Testing](https://img.shields.io/badge/Integration%20Testing-516B85?style=for-the-badge)
+![RESTful API](https://img.shields.io/badge/RESTful%20API-31547B?style=for-the-badge) ![ORM](https://img.shields.io/badge/ORM-31547B?style=for-the-badge) ![OOP](https://img.shields.io/badge/OOP-31547B?style=for-the-badge) ![Design Patterns](https://img.shields.io/badge/Design%20Patterns-31547B?style=for-the-badge) ![System Design](https://img.shields.io/badge/System%20Design-31547B?style=for-the-badge) ![Unit Testing](https://img.shields.io/badge/Unit/Integration%20Testing-516B85?style=for-the-badge)
 
 **Data & Messaging**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
