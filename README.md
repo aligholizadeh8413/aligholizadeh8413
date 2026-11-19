@@ -29,7 +29,7 @@ I'm building web applications and exploring SaaS ideas that solve real-world pro
 </td>
 <td width="50%" valign="top">
 
-### ✈️ Torob Trip — Travel Comparison Platform
+### ✈️ [Torob Trip — Travel Comparison Platform]
 
 `Django` `PostgreSQL` `REST API`
 
