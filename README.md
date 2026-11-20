@@ -15,6 +15,8 @@ I'm building web applications and exploring SaaS ideas that solve real-world pro
 <tr>
 <td width="50%" valign="top">
 
+<img src="assets/featured/aiodesk.jpg" alt="AioDesk project dashboard" width="100%" />
+
 ### 🖥️ [AioDesk — RMM & IT Management](https://aiodesk.ir)
 
 `Python` `FastAPI` `SQLite` `Redis` `RabbitMQ` `Docker`
@@ -28,6 +30,8 @@ I'm building web applications and exploring SaaS ideas that solve real-world pro
 
 </td>
 <td width="50%" valign="top">
+
+<img src="assets/featured/torob-trip.jpg" alt="Torob Trip travel platform" width="100%" />
 
 ### ✈️ [Torob Trip — Travel Comparison Platform](https://aiodesk.ir)
 
