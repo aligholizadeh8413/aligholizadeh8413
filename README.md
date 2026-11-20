@@ -9,7 +9,7 @@ I'm building web applications and exploring SaaS ideas that solve real-world pro
 - 🧩 Working on backend systems and software architecture.
 - 💡 Exploring product ideas at the intersection of software, IT, and business.
 
-### 🌟 Featured Projectssss
+### 🌟 Featured Projects
 
 <table>
 <tr>
